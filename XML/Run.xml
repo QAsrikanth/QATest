@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><suite name="Suite of Suits"><test name="Test"><classes><class name="TestRumbleon.Selenium.LoginApp"/><class name="TestRumbleon.Selenium.Buy"/></classes></test></suite>

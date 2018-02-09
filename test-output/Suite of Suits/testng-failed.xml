@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite of Suits]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="TestRumbleon.Selenium.LoginApp">
+        <methods>
+          <include name="beforeclass"/>
+          <include name="Login_process"/>
+          <include name="beforesuite"/>
+          <include name="beforemethod"/>
+        </methods>
+      </class> <!-- TestRumbleon.Selenium.LoginApp -->
+      <class name="TestRumbleon.Selenium.Buy">
+        <methods>
+          <include name="buy"/>
+        </methods>
+      </class> <!-- TestRumbleon.Selenium.Buy -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite of Suits] -->
